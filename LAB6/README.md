@@ -1,19 +1,25 @@
 # L6_L7_57 — Income Tax Calculator
 
-Lab 6: Code and Branch Coverage
+## Lab 6: Code and Branch Coverage Analysis
 
-## About
+### About
 
-A small Python module that works out taxable income under two tax regimes, calculates the tax due by age group and reports whether a refund or balance is owed.
+This project performs code coverage and branch coverage analysis for an Income Tax Calculator using Python, pytest, and coverage.
 
-## Files
+### Files
 
 | File | Description |
 |------|-------------|
-| `income_tax.py` | The module under test |
-| `test_income_tax.py` | Starter test file |
+| `income_tax.py` | Application code |
+| `test_income_tax.py` | Main test file |
+| `CodeCoverageTest_57_income_tax.py` | Code coverage test cases |
+| `BranchCoverageTest_57_income_tax.py` | Branch coverage test cases |
 
-Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
+### Coverage Achieved
 
-Refer to the lab handout for instructions.
-Branch coverage completed successfully.
+- Code Coverage: **100%**
+- Branch Coverage: **100%**
+
+### Screenshots
+
+Coverage analysis screenshots are available in the `screenshots` folder.
