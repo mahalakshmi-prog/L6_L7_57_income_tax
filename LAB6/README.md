@@ -16,3 +16,4 @@ A small Python module that works out taxable income under two tax regimes, calcu
 Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
 
 Refer to the lab handout for instructions.
+Branch coverage completed successfully.
